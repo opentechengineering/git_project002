@@ -16,6 +16,8 @@ public class FirstClass {
 		System.out.println("This is the 2nd commit from the remote repo");
 		
 		System.out.println("This is the first commit from the local fetiBranch branch");
+		
+		System.out.println("This is the second commit from the local fetiBranch branch");
 
 		System.out.println("This is our conflict at github");
 	}
