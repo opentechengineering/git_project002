@@ -17,7 +17,7 @@ public class FirstClass {
 		
 		System.out.println("This is the first commit from the local fetiBranch branch");
 
-
+		System.out.println("This is our conflict at github");
 	}
 
 }
